@@ -8,7 +8,7 @@ from matplotlib import pyplot as plt
 def saveMatcher(output,
 			    matcher,
                 descriptor):
-	# Plot BFMatcher with ORB
+	# Plot BFMatcher
 
 	# Turn interactive plotting off
 	plt.ioff()
