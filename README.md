@@ -1,19 +1,19 @@
-# Feature Description and Matching
+# Feature Detection and Matching
 
-![GitHub language count](https://img.shields.io/github/languages/count/whoisraibolt/Feature-Description-and-Matching)
-![GitHub top language](https://img.shields.io/github/languages/top/whoisraibolt/Feature-Description-and-Matching)
-![GitHub repo size](https://img.shields.io/github/repo-size/whoisraibolt/Feature-Description-and-Matching)
-![GitHub](https://img.shields.io/github/license/whoisraibolt/Feature-Description-and-Matching)
+![GitHub language count](https://img.shields.io/github/languages/count/whoisraibolt/Feature-Detection-and-Matching)
+![GitHub top language](https://img.shields.io/github/languages/top/whoisraibolt/Feature-Detection-and-Matching)
+![GitHub repo size](https://img.shields.io/github/repo-size/whoisraibolt/Feature-Detection-and-Matching)
+![GitHub](https://img.shields.io/github/license/whoisraibolt/Feature-Detection-and-Matching)
 
-Feature Description and Matching between two images using Local Feature Descriptors and Local Binary Descriptors through the Brute Force and FLANN algorithms.
+Feature Detection and Matching between two images using Local Feature Descriptors and Local Binary Descriptors through the Brute Force and FLANN algorithms.
 
 From this application it is possible to solve several problems in the area of Computer Vision, such as: image recovery, motion tracking, motion structure detection, object detection, recognition and tracking, 3D object reconstruction, and others.
 
 ## Overview
 
-This project performs Feature Description and Matching with SIFT, SURF, KAZE, BRIEF, ORB, BRISK, AKAZE and FREAK through the Brute Force and FLANN algorithms using Python (version 3.6.10) and OpenCV (version 3.3.1).
+This project performs Feature Detection and Matching with SIFT, SURF, KAZE, BRIEF, ORB, BRISK, AKAZE and FREAK through the Brute Force and FLANN algorithms using Python (version 3.6.10) and OpenCV (version 3.3.1).
 
-![Feature Description and Matching with KAZE through the Brute Force algorithm](https://raw.githubusercontent.com/whoisraibolt/Feature-Description-and-Matching/master/Figures/BF-with-KAZE.png)
+![Feature Detection and Matching with KAZE through the Brute Force algorithm](https://raw.githubusercontent.com/whoisraibolt/Feature-Detection-and-Matching/master/Figures/BF-with-KAZE.png)
 
 ## Dependencies
 
@@ -50,4 +50,4 @@ To install the dependencies run:
 
 ## License
 
-Code released under the [MIT](https://github.com/whoisraibolt/Feature-Description-and-Matching/blob/master/LICENSE "MIT") license.
+Code released under the [MIT](https://github.com/whoisraibolt/Feature-Detection-and-Matching/blob/master/LICENSE "MIT") license.
