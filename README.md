@@ -41,6 +41,7 @@ To install the dependencies run:
 `python main.py --detector ORB --descriptor ORB --matcher BF`
 
 ## Recommended Readings
+- [Feature Detection and Description](https://github.com/whoisraibolt/Feature-Detection-and-Description "Feature Detection and Description")
 
 - KRIG, Scott. [Computer vision metrics: Survey, taxonomy, and analysis](https://link.springer.com/content/pdf/10.1007%2F978-1-4302-5930-5.pdf "Computer vision metrics: Survey, taxonomy, and analysis"). Apress, 2014.
 
