@@ -1,5 +1,7 @@
 # Feature Detection and Matching
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21982985-1682D4)](https://doi.org/10.5281/zenodo.21982985)
+
 ![GitHub language count](https://img.shields.io/github/languages/count/whoisraibolt/Feature-Detection-and-Matching)
 ![GitHub top language](https://img.shields.io/github/languages/top/whoisraibolt/Feature-Detection-and-Matching)
 ![GitHub repo size](https://img.shields.io/github/repo-size/whoisraibolt/Feature-Detection-and-Matching)
