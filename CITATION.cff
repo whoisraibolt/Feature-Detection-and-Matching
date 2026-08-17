@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Feature Detection and Matching"
+abstract: "Feature detection and matching between two images using local feature descriptors and local binary descriptors (SIFT, SURF, KAZE, BRIEF, ORB, BRISK, AKAZE and FREAK) through the Brute Force and FLANN algorithms, using Python and OpenCV."
+authors:
+  - family-names: Raibolt
+    given-names: Alexandra
+    orcid: "https://orcid.org/0000-0002-8982-596X"
+repository-code: "https://github.com/whoisraibolt/Feature-Detection-and-Matching"
+license: MIT
+version: v1.0.0
+date-released: "2026-08-17"
+keywords:
+  - computer-vision
+  - feature-detection
+  - feature-matching
+  - opencv
+  - python
+  - sift
+  - surf
+  - kaze
+  - orb
+  - brisk
+  - akaze
+  - freak
